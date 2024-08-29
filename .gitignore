@@ -1,3 +1,16 @@
 data/
 
+DIPK/Data/
+DIPK/Figure/
+
+**/Dataset/
+
 **.csv
+
+**.pkl
+
+
+# other
+.vscode/
+
+__pycache__/
